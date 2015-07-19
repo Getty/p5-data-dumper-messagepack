@@ -1,4 +1,5 @@
 package Data::Dumper::MessagePack;
+# ABSTRACT: Dump MessagePack
 use 5.008001;
 use strict;
 use warnings;
